@@ -1,4 +1,4 @@
- [![MasterHead](<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717r108a38bbb5c57d.gif"/>)](https://rohinicv.vercel.app/)
+
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -29,7 +29,7 @@
 ###
 
  <div align="center">
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ROHINISINGH0823)](https://git.io/streak-stats)
 <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHINISINGH0823&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
