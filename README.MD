@@ -13,15 +13,11 @@
 
 ###
 
-<div align="center"> <a href="https://linkedin.com/in/ROHINISINGH0823" target="blank">
+<div align="center"> <a href="https://www.linkedin.com/in/rohini-singh-2271b219a/" target="blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://twitter.com/rishabh67896796" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
-  <a href="https://www.instagram.com/eighty_one___" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
-  <a href="https://codepen.io/rishabhmishra" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codepen logo"  /></a>
- <a href="https://rishabhcv.vercel.app" target="blank">
+  
+
+ <a href="https://rohinicv.vercel.app" target="blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=&label=&color=4B0082&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo"  /></a>
   <!-- <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /> -->
 </div>
@@ -29,7 +25,7 @@
 ###
 
  <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ROHINISINGH0823)](https://git.io/streak-stats)
+
 <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHINISINGH0823&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
