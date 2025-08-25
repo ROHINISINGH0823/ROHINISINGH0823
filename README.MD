@@ -29,30 +29,30 @@
 ###
 
  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=R1SH4BH81&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ROHINISINGH0823&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
 <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHINISINGH0823&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
 ###
 
 <picture>
-  <img src="https://pacman.abozanona.me?username=R1SH4BH81" />
+  <img src="https://pacman.abozanona.me?username=ROHINISINGH0823" />
 </picture>
 
 
 ###
  <picture>
-    <!--    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true"  />-->
+    <!--    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ROHINISINGH0823&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ROHINISINGH0823&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ROHINISINGH0823&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true"  />-->
     </picture>
 
 ###
 
 
-<img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
+<img src="https://komarev.com/ghpvc/?username=ROHINISINGH0823&label=Profile%20views&color=0e75b6&style=flat"  /><br>
 
 
 
